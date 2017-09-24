@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Ankit Chhabra",
+    "label": "Senior Software Engineer | Mobile App Developer | Full Stack",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "email": "wowankit23@gmail.com",
+    "phone": "9041301275",
+    "website": "https://wowankit23.github.io",
+    "summary": "I am working as SSE in MNC company IT Park Chandigarh.
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "134109
+      "city": "Chandigarh
+      "countryCode": "INDIA
+      "region": "Chandigarh
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "wowankit23
+        "url": "http://github.com/wowankit23
       },
       {
         "network": "linkedin",
@@ -41,8 +41,10 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Android
+        "IOS"
+        "FIREBASE"
+        "ARCHITECTURE"
       ]
     },
     {
@@ -66,7 +68,7 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Typescript
       ]
     },
     {
@@ -83,8 +85,8 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Panjab Technical University.Jalandhar
+      "area": "Becholar od
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
